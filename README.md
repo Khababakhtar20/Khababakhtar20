@@ -4,7 +4,7 @@
 <h3 align="center">Electronic Engineer | AI Enthusiast | 5x Intl Hackathon Finalist | Generative AI Specialist | 100+ LeetCode Problems Solved</h3>
 
 </p><p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+%26+designing!;Follow+for+coding+content+%26+motivation!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=800&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+and+designing!;Follow+for+coding+content+and+motivation!" alt="Typing SVG">
 </p>
 
 ---
