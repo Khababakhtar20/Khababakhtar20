@@ -11,13 +11,13 @@
 
 ## 📌 About Me
 
-- 🎓 Selected as **Experienced Student at [Stanford Code in Place 2025](https://www.linkedin.com/feed/update/urn:li:activity:7316881832187219968/)** to teach Python globally.
-- 🧠 Participant of **[Harvard CS50x Puzzle Day 2025](https://certificates.cs50.io/6bb8d938-6d20-4f87-a3b9-273e32d3afea.png)** — solved all 9 puzzles with team *Logic Legends*.
-- 🧪 Hands-on with **Generative AI**, including model fine-tuning, prompt design, and deployment.
-- 💡 Solved **100+ LeetCode problems** — developing robust algorithmic thinking.  
-- 🌐 **[Lablab.ai](https://lablab.ai/u/@Khabab)** Hackathon finalist 5 times — collaborated in global teams.
-- 📦 Daily DSA contributor on [GitHub](https://github.com/khababakhtar20).
-- 🛰️ Passionate about **AI + Embedded Systems**, exploring synergies between ML and hardware (e.g., Raspberry Pi, Arduino).
+-  Selected as **Experienced Student at [Stanford Code in Place 2025](https://www.linkedin.com/feed/update/urn:li:activity:7316881832187219968/)** to teach Python globally.
+-  Participant of **[Harvard CS50x Puzzle Day 2025](https://certificates.cs50.io/6bb8d938-6d20-4f87-a3b9-273e32d3afea.png)** — solved all 9 puzzles with team *Logic Legends*.
+-  Hands-on with **Generative AI**, including model fine-tuning, prompt design, and deployment.
+-  Solved **100+ LeetCode problems** — developing robust algorithmic thinking.  
+- **[Lablab.ai](https://lablab.ai/u/@Khabab)** Hackathon finalist 5 times — collaborated in global teams.
+-  Daily DSA contributor on [GitHub](https://github.com/khababakhtar20).
+-  Passionate about **AI + Embedded Systems**, exploring synergies between ML and hardware (e.g., Raspberry Pi, Arduino).
 
 ---
 
