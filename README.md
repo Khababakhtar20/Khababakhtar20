@@ -74,9 +74,8 @@
 - 🧩 **Harvard CS50x Puzzle Day** – Solved all 9/9 (https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto)
 -  Ranked 249 out of 600 **[Mit Spring Contest'25](https://drive.google.com/file/d/1YfHhVz9ZR3_tmGiZrc8419HKiZcoUqqK/view?usp=sharing)**.
 -  My team secured 114 rank out of 820 teams **[CALICO Spring contest'25](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto)**.
-- 
 - 🔬 AI project lead on multiple **embedded ML experiments**
-- 🏁 [MIT Informatics Tournament](https://mitit.org/Contest/ViewScoreboard/beginner-2025) participant
+
 
 ---
 
