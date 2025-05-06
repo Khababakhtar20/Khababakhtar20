@@ -71,7 +71,7 @@
 - 🏆 Finalist in 5+ **Lablab.ai Hackathons**
 - ✅ **LeetCode 100+ Problems** [Profile](https://leetcode.com/progress/)
 - 🧑‍🏫 **Stanford Code in Place 2025** Experienced Student (https://codeinplace.stanford.edu/cip5/teachnow/student)
-- 🧩 **Harvard CS50x Puzzle Day** – Solved all 9/9 (https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto)
+- 🧩 **Harvard CS50x Puzzle Day** Solved all 9/9 (https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto)
 -  Ranked 249 out of 600 **[Mit Spring Contest'25](https://drive.google.com/file/d/1YfHhVz9ZR3_tmGiZrc8419HKiZcoUqqK/view?usp=sharing)**.
 -  My team secured 114 rank out of 820 teams **[CALICO Spring contest'25](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto)**.
 - 🔬 AI project lead on multiple **embedded ML experiments**
