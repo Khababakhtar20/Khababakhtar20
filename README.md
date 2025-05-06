@@ -24,7 +24,7 @@
 - **[Lablab.ai](https://lablab.ai/u/@Khabab)** Hackathon finalist 5 times — collaborated in global teams.
 -  Daily DSA contributor on [GitHub](https://github.com/khababakhtar20).
 -  Ranked 249 out of 600 **[Mit Spring Contest'25](https://drive.google.com/file/d/1YfHhVz9ZR3_tmGiZrc8419HKiZcoUqqK/view?usp=sharing)**.
--  My team secured 114 rank out of 820 teams**[CALICO Spring contest'25].(https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto)**.
+-  My team secured 114 rank out of 820 teams **[CALICO Spring contest'25].(https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto)**.
 -  Passionate about **AI + Embedded Systems**, exploring synergies between ML and hardware (e.g., Raspberry Pi, Arduino).
 
 ---
