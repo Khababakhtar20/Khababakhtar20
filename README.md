@@ -123,15 +123,18 @@
 ---
 
 ## 📬 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/khabab-akhtar-5b34562b1">
-    <img src="https://img.shields.io/badge/LinkedIn-Khabab%20Akhtar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:khababakhtar20@gmail.com">
+<div align="center">
+    <a href="https://www.linkedin.com/in/khabab-akhtar-5b34562b1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Khabab%20Akhtar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+    <a target="_blank" href="mailto:khababakhtar20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-khababakhtar20@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-   <a href="https://lablab.ai/event/code-craft-ai-x-dev-hackathon>
-    <img src="https://img.shields.io/badge/https://lablab.ai/style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</a>
+    <a href="https://leetcode.com/u/khabab_akhtar/" target="_blank">
+    <img src="https://img.shields.io/badge/-Khabab%Akhtar-FFA116?style=flat&logo=LeetCode&logoColor=white"/>
+</a>
+    <a href="https://lablab.ai/u/@khabab_akhtar" target="_blank">
+    <img src="https://img.shields.io/badge/-LabLab%20Profile-3B5998?style=flat&logo=internet-explorer&logoColor=white"/>
+</a>
+
+</div>
