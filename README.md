@@ -112,7 +112,7 @@
   </a>
   &nbsp; &nbsp;
  <a href="https://lablab.ai/event/ai-for-connectivity-hackathon-building-resilient-networks/connectivity-matters/connectivity-matter">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm69dj4ya000d357oi9a3hgks%2Fcm69dj4ya000d357oi9a3hgks_imageLink_gdni20w6z.jpg&w=1080&q=75" width="390">
+    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm9fp7ws500073570dswtb0bu%2Fcm9fp7ws500073570dswtb0bu_imageLink_6n2x00v8j.jpg&w=1080&q=75" width="390">
   </a>
     &nbsp; &nbsp;
    <a href="">
