@@ -134,7 +134,7 @@
     <img src="https://img.shields.io/badge/-Khabab%Akhtar-FFA116?style=flat&logo=LeetCode&logoColor=white"/>
 </a>
     <a href="https://lablab.ai/u/@khabab_akhtar" target="_blank">
-    <img src="https://img.shields.io/badge/-LabLab%20Profile-3B5998?style=flat&logo=internet-explorer&logoColor=white"/>
+    <img src="https://lablab.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flablab-logo.8496f44c.png&w=96&q=75"/>
 </a>
 
 </div>
