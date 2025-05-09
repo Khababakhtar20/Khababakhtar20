@@ -146,7 +146,7 @@
     <img src="https://img.shields.io/badge/-khababakhtar20@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" />
 </a>
     <a href="https://leetcode.com/u/khabab_akhtar/" target="_blank">
-    <img src="https://img.shields.io/badge/-Khabab%Akhtar-FFA116?style=flat&logo=LeetCode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Khabab%20Akhtar-FFA116?style=flat&logo=LeetCode&logoColor=white"/>
 </a>
     <a href="https://lablab.ai/u/@khabab_akhtar" target="_blank">
     <img src="https://img.shields.io/badge/-LabLab%20Profile-3B5998?style=flat&logo=internet-explorer&logoColor=white"/>
