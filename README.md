@@ -95,8 +95,8 @@
 ## 🌍 Hackathons Gallery
 
 <p float="left">
-  <a href="https://lablab.ai/event/monday-ai-app-hackathon/simons-strike-team/monday-ai-assistant" target="_blank">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm48fgskd000b356zv4ebb0pv%2Fcm48fgskd000b356zv4ebb0pv_imageLink_ss4ze20y2r.jpg&w=1080&q=75" width="390">
+  <a href="https://lablab.ai/event/execute-ai-genesis/wise-move/wise-move" target="_blank">
+    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm8resu8w000a3573af0dznrd%2Fcm8resu8w000a3573af0dznrd_imageLink_hb3d5k0ejb.jpg&w=1080&q=75" width="390">
   </a>
   &nbsp; &nbsp;
   <a href="https://lablab.ai/event/aistronauts-space-agents-on-a-mission/icoders/space-ai-chatbot" target="_blank">
