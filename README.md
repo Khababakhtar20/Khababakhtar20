@@ -131,4 +131,7 @@
   <a href="mailto:khababakhtar20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-khababakhtar20@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+   <a href="https://lablab.ai/event/code-craft-ai-x-dev-hackathon>
+    <img src="https://img.shields.io/badge/https://lablab.ai/style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
