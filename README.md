@@ -123,7 +123,7 @@
 ---
 
 ## 📬 Connect with Me
-<div align="center">
+<!--<div align="center">
     <a href="https://www.linkedin.com/in/khabab-akhtar-5b34562b1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Khabab%20Akhtar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -137,4 +137,20 @@
     <img src="https://lablab.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flablab-logo.8496f44c.png&w=96&q=75"/>
 </a>
 
+</div>--!>
+<div align="center">
+    <a href="https://www.linkedin.com/in/khabab-akhtar-5b34562b1" target="_blank">
+    <img src="https://img.shields.io/badge/-Khabab%20Akhtar-0077B5?style=flat&logo=LinkedIn&logoColor=white"/>
+</a>
+    <a target="_blank" href="mailto:khababakhtar20@gmail.com">
+    <img src="https://img.shields.io/badge/-khababakhtar20@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" />
+</a>
+    <a href="https://leetcode.com/u/khabab_akhtar/" target="_blank">
+    <img src="https://img.shields.io/badge/-Khabab%Akhtar-FFA116?style=flat&logo=LeetCode&logoColor=white"/>
+</a>
+    <a href="https://lablab.ai/u/@khabab_akhtar" target="_blank">
+    <img src="https://img.shields.io/badge/-LabLab%20Profile-3B5998?style=flat&logo=internet-explorer&logoColor=white"/>
+</a>
+
 </div>
+
