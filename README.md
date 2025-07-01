@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Electronic Engineer | AI Enthusiast | 5x Intl Hackathon Finalist | Generative AI Specialist | 100+ LeetCode Problems Solved
+  Electronic Engineer | AI Enthusiast | 5x Intl Hackathon Finalist | Generative AI Specialist | 150+ LeetCode Problems Solved
 </h3>
 
 <div align="center">
