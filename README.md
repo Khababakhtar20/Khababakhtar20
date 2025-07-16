@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Electronic Engineer | AI Enthusiast | 5x Intl Hackathon Finalist | Generative AI Specialist | 150+ LeetCode Problems Solved
+  Electronic Engineer | AI Enthusiast | 7x Intl Hackathon Finalist | Generative AI Specialist | 150+ LeetCode Problems Solved
 </h3>
 
 <div align="center">
@@ -68,8 +68,8 @@
 
 ## 🌟 Featured Achievements
 
-- 🏆 Finalist in 5+ **Lablab.ai Hackathons**
-- ✅ **LeetCode 100+ Problems** [Profile](https://leetcode.com/progress/)
+- 🏆 Finalist in 7+ **Lablab.ai Hackathons**
+- ✅ **LeetCode 150+ Problems** [Profile](https://leetcode.com/progress/)
 - 🧑‍🏫 **Stanford Code in Place 2025** Experienced Student (https://codeinplace.stanford.edu/cip5/teachnow/student)
 - 🧩 **Harvard CS50x Puzzle Day** [Solved all 9/9](https://drive.google.com/file/d/1YfHhVz9ZR3_tmGiZrc8419HKiZcoUqqK/view?usp=sharing)
 -  Ranked 249 out of 600 **[Mit Spring Contest'25](https://drive.google.com/file/d/1YfHhVz9ZR3_tmGiZrc8419HKiZcoUqqK/view?usp=sharing)**.
