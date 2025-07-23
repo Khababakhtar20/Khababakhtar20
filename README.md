@@ -95,54 +95,6 @@
 </p>
 
 ---
-
-## 🌍 Hackathons Gallery
-
-<p float="left">
-  <a href="https://lablab.ai/event/execute-ai-genesis/wise-move/wise-move" target="_blank">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm8resu8w000a3573af0dznrd%2Fcm8resu8w000a3573af0dznrd_imageLink_hb3d5k0ejb.jpg&w=1080&q=75" width="390">
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://lablab.ai/event/aistronauts-space-agents-on-a-mission/icoders/space-ai-chatbot" target="_blank">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm5xsfsfx000q357q5hktprpp%2Fcm5xsfsfx000q357q5hktprpp_imageLink_xm1pbz0a98.jpg&w=1080&q=75" width="390">
-  </a>
-  &nbsp;
-    <a href="https://lablab.ai/event/fall-in-love-with-deepseek/deepfake/medimate">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6ifrxgc000535720vhskc3x%2Fcm6ifrxgc000535720vhskc3x_imageLink_zpbrq0ogw.jpg&w=1080&q=75" width="390">
-  </a>
- &nbsp; &nbsp;
-   <a href="https://lablab.ai/event/generative-ai-hackathon-with-ibm-granite/automaters/chainsink">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6rtr6pf000c356ytb4y55ol%2Fcm6rtr6pf000c356ytb4y55ol_imageLink_hv3320ir6.jpg&w=1080&q=75" width="390">
-  </a>
-  &nbsp; &nbsp;
- <a href="https://lablab.ai/event/ai-for-connectivity-hackathon-building-resilient-networks/connectivity-matters/connectivity-matter">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm9fp7ws500073570dswtb0bu%2Fcm9fp7ws500073570dswtb0bu_imageLink_6n2x00v8j.jpg&w=1080&q=75" width="390">
-  </a>
-    &nbsp; &nbsp;
-   <a href="">
-     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm7j5ojt4000v357siwh0dgt4%2Fcm7j5ojt4000v357siwh0dgt4_imageLink_fbqm0njy.jpg&w=1080&q=75" width="390">
-  </a>
-</p>
- 
----
-## Achievements & Certifications
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=abdullahxyz85&theme=chartreuse-dark&row=1&column=7)
-<!--
-</div>
-<div align='center'>
-<img src="https://raw.githubusercontent.com/theosaffire/theosaffire/output/snake.svg" alt="Snake animation" />
-</div>-->
-
-
-<h3 align="center">
-
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
-</h3>
-
 ## 📬 Connect with Me
 <!--<div align="center">
     <a href="https://www.linkedin.com/in/khabab-akhtar-5b34562b1" target="_blank">
@@ -173,7 +125,65 @@
     <img src="https://img.shields.io/badge/-LabLab%20Profile-3B5998?style=flat&logo=internet-explorer&logoColor=white"/>
 </a>
 
+</div> -->
+
+---
+## COMPLETED INTERNATIONAL HACKATHONS:
+
+<p float="left">
+  <a href="https://lablab.ai/event/execute-ai-genesis/wise-move/wise-move" target="_blank">
+    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm8resu8w000a3573af0dznrd%2Fcm8resu8w000a3573af0dznrd_imageLink_hb3d5k0ejb.jpg&w=1080&q=75" width="390">
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://lablab.ai/event/aistronauts-space-agents-on-a-mission/icoders/space-ai-chatbot" target="_blank">
+    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm5xsfsfx000q357q5hktprpp%2Fcm5xsfsfx000q357q5hktprpp_imageLink_xm1pbz0a98.jpg&w=1080&q=75" width="390">
+  </a>
+  &nbsp;
+    <a href="https://lablab.ai/event/fall-in-love-with-deepseek/deepfake/medimate">
+    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6ifrxgc000535720vhskc3x%2Fcm6ifrxgc000535720vhskc3x_imageLink_zpbrq0ogw.jpg&w=1080&q=75" width="390">
+  </a>
+ &nbsp; &nbsp;
+   <a href="https://lablab.ai/event/generative-ai-hackathon-with-ibm-granite/automaters/chainsink">
+    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6rtr6pf000c356ytb4y55ol%2Fcm6rtr6pf000c356ytb4y55ol_imageLink_hv3320ir6.jpg&w=1080&q=75" width="390">
+  </a>
+  &nbsp; &nbsp;
+ <a href="https://lablab.ai/event/ai-for-connectivity-hackathon-building-resilient-networks/connectivity-matters/connectivity-matter">
+    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm9fp7ws500073570dswtb0bu%2Fcm9fp7ws500073570dswtb0bu_imageLink_6n2x00v8j.jpg&w=1080&q=75" width="390">
+  </a>
+    &nbsp; &nbsp;
+   <a href="">
+     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm7j5ojt4000v357siwh0dgt4%2Fcm7j5ojt4000v357siwh0dgt4_imageLink_fbqm0njy.jpg&w=1080&q=75" width="390">
+  </a>
+&nbsp; &nbsp;
+  <a href="https://lablab.ai/event/code-craft-ai-x-dev-hackathon/avalanche/synthocode">
+     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm9fp7ws500073570dswtb0bu%2Fcm9fp7ws500073570dswtb0bu_imageLink_sa27404my.jpg&w=1080&q=75" width="390">
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://lablab.ai/event/raise-your-hack/innoventors-blackbox-track/codesage-ai-code-review-tool">
+     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcma163h37000l3570kmqcvfec%2Fcma163h37000l3570kmqcvfec_imageLink_ij2aoz0r0n.jpg&w=1080&q=75" width="390">
+  </a>
+</p>
+ 
+---
+## Achievements & Certifications
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=abdullahxyz85&theme=chartreuse-dark&row=1&column=7)
+<!--
 </div>
+<div align='center'>
+<img src="https://raw.githubusercontent.com/theosaffire/theosaffire/output/snake.svg" alt="Snake animation" />
+</div>-->
+
+
+<h3 align="center">
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</h3>
+
+
 
 
 <!--<pre>
