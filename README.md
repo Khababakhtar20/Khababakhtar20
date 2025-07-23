@@ -27,7 +27,7 @@
 -  Solved **[100+ LeetCode problems](https://leetcode.com/progress/)** — developing robust algorithmic thinking.  
 - **[Lablab.ai](https://lablab.ai/u/@Khabab)** Hackathon finalist 5 times — collaborated in global teams.
 -  Daily DSA contributor on [GitHub](https://github.com/khababakhtar20).
--  - **@[Open Source Contribution Badge](https://www.holopin.io/userbadge/cmdc01of4299707l1rt1fvvxb)** Earned the Open Source Contribution badge after making my first contribution, excited to begin this journey in the open-source community!.
+- **@[Open Source Contribution Badge](https://www.holopin.io/userbadge/cmdc01of4299707l1rt1fvvxb)** Earned the Open Source Contribution badge after making my first contribution, excited to begin this journey in the open-source community!.
 -  Ranked 249 out of 600 **[Mit Spring Contest'25](https://drive.google.com/file/d/1YfHhVz9ZR3_tmGiZrc8419HKiZcoUqqK/view?usp=sharing)**.
 -  My team secured 114 rank out of 820 teams **[CALICO Spring contest'25](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto)**.
 -  Passionate about **AI + Embedded Systems**, exploring synergies between ML and hardware (e.g., Raspberry Pi, Arduino).
