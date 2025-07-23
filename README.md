@@ -111,8 +111,8 @@
  <!--![](./profile-night-rainbow.svg)-->
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khabab_akhtar&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khabab_akhtar&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Khababakhtar20&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khababakhtar20&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </p>
 
 <p align="center">
@@ -122,8 +122,8 @@
 </p>
 
 <p align="center">
-   <a href="https://github.com/khabab_akhtar"> 
-     <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=khabab_akhtar&show_icons=true&locale=en&layout=demo&theme=chartreuse-dark&hide_border=true" /> 
+   <a href="https://github.com/Khababakhtar20"> 
+     <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=Khababakhtar20&show_icons=true&locale=en&layout=demo&theme=chartreuse-dark&hide_border=true" /> 
    </a>  
  </p>
 
