@@ -25,7 +25,7 @@
 -  Selected as **Experienced Student at [Stanford Code in Place 2025](https://codeinplace.stanford.edu/cip5/teachnow/student)** to teach Python globally.
 -  Participant of **[Harvard CS50x Puzzle Day 2025](https://drive.google.com/file/d/1YfHhVz9ZR3_tmGiZrc8419HKiZcoUqqK/view?usp=sharing)** solved all 9 puzzles with team *Logic Legends*.
 -  Hands-on with **[Generative AI](https://www.linkedin.com/posts/khabab-akhtar-5b34562b1_generativeai-promptengineering-aiinnovation-activity-7310588926279266304-hP7A?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEr-wNcBpqwiHS22czW04apt3DVKhNrYvNU)**, including model fine-tuning, prompt design, and deployment.
--  Solved **[100+ LeetCode problems](https://leetcode.com/progress/)** developing robust algorithmic thinking.  
+-  Solved **[150+ LeetCode problems](https://leetcode.com/progress/)** developing robust algorithmic thinking.  
 - **[Lablab.ai](https://lablab.ai/u/@Khabab)** Hackathon finalist 5 times collaborated in global teams.
 -  Daily DSA contributor on [GitHub](https://github.com/khababakhtar20).
 -  Ranked 249 out of 600 **[Mit Spring Contest'25](https://drive.google.com/file/d/1YfHhVz9ZR3_tmGiZrc8419HKiZcoUqqK/view?usp=sharing)**.
