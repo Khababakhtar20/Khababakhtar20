@@ -106,16 +106,26 @@
   </a>
 </div> -->
 
-## 🔍 GitHub Stats
+ ## GitHub Analytics
+
+ <!--![](./profile-night-rainbow.svg)-->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khababakhtar20&show_icons=true&theme=chartreuse-dark&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khababakhtar20&layout=compact&theme=chartreuse-dark&hide_border=true" height="180" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khabab_akhtar&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khabab_akhtar&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=khababakhtar20&theme=chartreuse-dark&hide_border=true" />
+  <a href="https://github.com/khabab_akhtar/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khabab_akhtar&theme=chartreuse-dark&hide_border=true" alt="Khabab Akhtar github activity graph" style="margin: 10px; border-radius: 10px; width: 85%; height: 80%;  border: 2px solid white;"/>
+  </a>
 </p>
+
+<p align="center">
+   <a href="https://github.com/khabab_akhtar"> 
+     <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=khabab_akhtar&show_icons=true&locale=en&layout=demo&theme=chartreuse-dark&hide_border=true" /> 
+   </a>  
+ </p>
 
 ---
 ## 📬 Connect with Me
