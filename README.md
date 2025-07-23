@@ -116,8 +116,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/khabab_akhtar/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khabab_akhtar&theme=chartreuse-dark&hide_border=true" alt="Khabab Akhtar github activity graph" style="margin: 10px; border-radius: 10px; width: 85%; height: 80%;  border: 2px solid white;"/>
+  <a href="https://github.com/Khababakhtar20/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khababakhtar20&theme=chartreuse-dark&hide_border=true" alt="Khabab Akhtar github activity graph" style="margin: 10px; border-radius: 10px; width: 85%; height: 80%;  border: 2px solid white;"/>
   </a>
 </p>
 
