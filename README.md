@@ -163,12 +163,6 @@
 <div align="center">
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Khababakhtar20&theme=chartreuse-dark&row=1&column=7)
-<!--
-</div>
-<div align='center'>
-<img src="https://raw.githubusercontent.com/theosaffire/theosaffire/output/snake.svg" alt="Snake animation" />
-</div>-->
-
 
 <h3 align="center">
 
