@@ -165,7 +165,7 @@
     <img src="https://img.shields.io/badge/-LabLab%20Profile-3B5998?style=flat&logo=internet-explorer&logoColor=white"/>
 </a>
 
-</div> -->
+</div>
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
 </div>
