@@ -1,23 +1,22 @@
-[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/Khababakhtar20) &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=Khababakhtar20)  &nbsp; &nbsp; <a href="https://github.com/Khababakhtar20?tab=followers"><img src="https://img.shields.io/github/followers/Khababakhtar20?label=Followers&style=social" alt="GitHub Badge"></a>
+<!-- GitHub Profile README -->
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Khababakhtar20) &nbsp; &nbsp; [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Khababakhtar20)
+[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/Khababakhtar20) &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=Khababakhtar20)  &nbsp; &nbsp; <a href="https://github.com/Khababakhtar20?tab=followers"><img src="https://img.shields.io/github/followers/Khababakhtar20?label=Followers&style=social" alt="GitHub Badge"></a> &nbsp; &nbsp;[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Khababakhtar20) &nbsp; &nbsp; [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Khababakhtar20)
 <br> <br> 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=AditiS2610&label=Profile%20views&color=0e75b6&style=flat" alt="Aditi Shree" /> </p>-->
 
-<h1 align="center" style="font-family: 'Times New Roman', Times, serif;">
-  Hi, I'm Khabab Akhtar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">
-</h1>
 
-<h3 align="center">
-  Electronic Engineer | AI Enthusiast | 7x Int'l Hackathon Finalist | Generative AI Specialist | 150+ LeetCode Problems Solved
-</h3>
+<!-- Animated Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!%20I'm%20Khabab%20Akhtar%20👋&fontSize=35&fontAlignY=40&animation=fadeIn&desc=Electronic%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Hackathon%20Winner%20%7C%20Open-Source%20Contributor&descAlignY=60)
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+%26+designing!;Follow+for+coding+content+%26+motivation!" alt="Typing SVG">
+</p> 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=800&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+and+designing!;Follow+for+coding+content+and+motivation!" alt="Typing SVG" />
 </div>
 
-
----
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+</div>
 
 ## 📌 About Me
 
