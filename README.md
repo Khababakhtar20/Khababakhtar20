@@ -7,7 +7,7 @@
 <!-- Animated Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!%20I'm%20Khabab%20Akhtar%20👋&fontSize=35&fontAlignY=40&animation=fadeIn&desc=Electronic%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Hackathon%20Winner%20%7C%20Open-Source%20Contributor&descAlignY=60)
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+%26+designing!;Follow+for+coding+content+%26+motivation!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems!;Follow+for+coding+content+motivation!" alt="Typing SVG">
 </p> 
 
 <div align="center">
