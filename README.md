@@ -11,10 +11,6 @@
 </p> 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=800&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+and+designing!;Follow+for+coding+content+and+motivation!" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
 </div>
 
@@ -33,7 +29,9 @@
 -  My team secured 114 rank out of 820 teams **[CALICO Spring contest'25](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto)**.
 -  Passionate about **AI + Embedded Systems**, exploring synergies between ML and hardware (e.g., Raspberry Pi, Arduino).
 
----
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+</div>
 
 ## ⚙️ Skills
 
@@ -70,7 +68,9 @@
 
 </td></tr></table>
 
----
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+</div>
 
 ## 🌟 Featured Achievements
 
@@ -83,7 +83,9 @@
 - 🔬 AI project lead on multiple **embedded ML experiments**
 
 
----
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+</div>
 
 ## LeetCode Stats & DSA
 <div align="center">
@@ -129,7 +131,10 @@
    </a>  
  </p>
 
----
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+</div>
+
 ## 📬 Connect with Me
 <!--<div align="center">
     <a href="https://www.linkedin.com/in/khabab-akhtar-5b34562b1" target="_blank">
@@ -161,8 +166,10 @@
 </a>
 
 </div> -->
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+</div>
 
----
 ## COMPLETED INTERNATIONAL HACKATHONS:
 
 <p float="left">
@@ -199,7 +206,10 @@
   </a>
 </p>
  
----
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="100px">
+</div>
+
 ## Achievements & Certifications
 
 <div align="center">
