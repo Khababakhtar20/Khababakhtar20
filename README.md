@@ -108,7 +108,7 @@
   <a href="https://abdullahjameel.dev" target="_blank" style="margin: 0 15px; text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-Abdullah%20Jameel-green?style=for-the-badge&logo=internetexplorer" alt="Portfolio" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 10px;"/>
   </a>
-</div> -->
+</div>
 
  ## GitHub Analytics
 
